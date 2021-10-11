@@ -1,0 +1,82 @@
+body {
+  background-color: #eee;
+}
+
+.app-header {
+  background-color: darkcyan;
+}
+
+.app-logo {
+}
+
+.app-navigation {
+  display: flex;
+  justify-content: space-between;
+}
+
+.app-navigation a {
+  font-family: 'Open Sans';
+  font-weight: 800;
+}
+
+.app-navigation a:link {
+  text-decoration: none;
+  color: white;
+}
+
+.app-navigation a:visited {
+  color: white;
+}
+
+.app-logo img {
+  width: 310px;
+}
+
+h1 {
+  font-size: 2.8125em;
+  font-family: 'Exo';
+}
+
+h2 {
+  font-size: 2.8125em;
+  font-family: 'exo';
+}
+
+h3 {
+  font-family: 'Exo';
+  font-size: 2.25rem;
+  text-decoration: underline #ed1c24 solid 3px;
+}
+
+#contact {
+  font-family: 'Exo';
+  font-size: 1.375rem;
+  text-decoration: underline;
+}
+
+.username-review {
+  font-family: 'Exo';
+  font-size: 1.875em;
+  text-decoration: underline;
+}
+
+.red-text {
+  color: #ed1c24;
+  font-weight: 400;
+}
+
+.red-text-2 {
+  color: #ed1c24;
+  font-family: 'Exo';
+  font-weight: 700;
+}
+
+.text-style {
+  font-size: 1.625rem;
+  font-family: 'Open Sans';
+  font-weight: 100;
+}
+
+.description {
+  font-weight: 800;
+}
